@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Dorian FONSECA
-description: Gameplay & Tool Programmer | Web Programmer
+description: Gameplay, Engine Tool & Web Programmer
 
 baseurl: "/" #name of GitHub repository
 url: "https://dorian2002.github.io" #custom url to be used instead of GitHub repository
@@ -14,7 +14,7 @@ paginate_path: /blog/page:num/
 
 # Social media links in footer
 #twitter: "#"
-linkedin: "https://www.linkedin.com/in/dorian-fonseca-b441771b3/"
+linkedin: "dorian-fonseca-b441771b3"
 #stackoverflow: "#"
 github: "https://github.com/Dorian2002"
 #researchgate: "#"
