@@ -6,7 +6,7 @@ profile:
   image: profile.png
 published: true
 ---
-Hi and welcome to my portfolio, here you can read about one of passions : **software programming**. You can check down below if you want to know more about my personnality otherwise jump directly into my [projects](https://LienProjets).
+Hi and welcome to my portfolio, here you can read about one of my passions : **software programming**. You can check down below if you want to know more about my personnality otherwise jump directly into my [projects](https://LienProjets).
 
 I have interests in far too many subjects, though my favourite ones are for sure **Tech**, **Physics**, **Video Games** and of course **Programming**. But I'm always glad to spend time singing, listening music and also reading about ecology, geopolitics or finance.
  
